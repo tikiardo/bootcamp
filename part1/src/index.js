@@ -7,7 +7,7 @@ return <h1>Hola mundo </h1>
 
 }
 const Description = () => {
-  return <p>Esta es la app del curso de bootcamp fullstack</p>
+  return <p>Esta es la app del curso de bootcamp fullstack hola github</p>
 }
 
 const App = () => {
